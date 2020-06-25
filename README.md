@@ -5,9 +5,5 @@ Hiii ashok
 
 Hii manu 
 
-Hii kavya
-
-Hii friends
 
 
-Hii mani and meena 
