@@ -1,6 +1,4 @@
 
-Sample Java Applicaiton V1.47
+Sample Java Applicaiton V1.4
 
-Hiii Manu
-Hii ashok
-Hii re kishore
+Ashok Vs Manu
