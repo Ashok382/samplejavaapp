@@ -1,7 +1,3 @@
 
-Sample Java Applicaiton V1.4
-
-Ashok Vs Manu ()
- love u Manu
-hey manu
-  hii amma
+Sample Java Applicaiton v1.4
+ravi changes
