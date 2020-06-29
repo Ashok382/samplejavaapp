@@ -1,4 +1,4 @@
 
-Sample Java Applicaiton v1.1
+Sample Java Applicaiton v1.2
 ravi changes
 ashok manu
